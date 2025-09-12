@@ -16,7 +16,7 @@
 ### 𝗩ɪsɪᴛᴏʀs 🍹
 
 <!--
-**𝙏𝙝𝙚𝘿𝙖𝙧𝙠𝙉𝙚𝙩𝙬𝙤𝙧𝙠/𝐃ᴀʀᴋ𝐖ᴇʙ𝐇ᴀᴄᴋᴇʀ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DXTEAM/𝐃XTEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
