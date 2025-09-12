@@ -27,17 +27,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DXTEAM&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dx-Hacker&theme=onedark&hide_border=false)<br/>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=DXTEAM&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Dx-Hacker&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DXTEAM&&show_icons=true&theme=midnight-purple" alt="DXTEAM"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dx-Hacker&&show_icons=true&theme=midnight-purple" alt="Dx-Hacker"/></p>        
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXTEAM&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dx-Hacker&layout=compact&theme=tokyonight" align="center">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
