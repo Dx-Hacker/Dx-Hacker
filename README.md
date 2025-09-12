@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
-<b>![𝙏𝙝𝙚 𝘿𝙖𝙧𝙠 𝙉𝙚𝙩𝙬𝙤𝙧𝙠]("https://t.me/DarkxSupports")</b>
+<b>![𝙏𝙝𝙚 𝘿𝙖𝙧𝙠 𝙉𝙚𝙩𝙬𝙤𝙧𝙠]<a href="https://t.me/DarkxSupports">/b>
 
 ### 𝗩ɪsɪᴛᴏʀs 🍹
 
