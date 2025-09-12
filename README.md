@@ -11,17 +11,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
-<b>![𝙏𝙝𝙚 𝘿𝙖𝙧𝙠 𝙉𝙚𝙩𝙬𝙤𝙧𝙠](https://t.me/DarkxSupports")</b>
+<b>![𝙏𝙝𝙚 𝘿𝙖𝙧𝙠 𝙉𝙚𝙩𝙬𝙤𝙧𝙠]("https://t.me/DarkxSupports")</b>
 
 ### 𝗩ɪsɪᴛᴏʀs 🍹
 
 <!--
-**DXTEAM/𝐃XTEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dx-Hacker/Dx-Hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/DXTEAM/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Dx-Hacker/count.svg" />
 </p>
 
 
