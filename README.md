@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁++𝐃𝐈𝐑𝐄𝐂𝐓𝐄𝐃+𝐁𝐘+𝐏𝐑𝐈𝐍𝐂𝐄+𝐊𝐈𝐍𝐆+++🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐃ᴀʀᴋ 𝐖ᴇʙ 𝐇ᴀᴄᴋᴇʀ </& !!</b></h1>
-<p align="center"><a href="https://t.me/Dx_Coder"><img src="https://telegra.ph/file/51cb8a22e65caa4382879.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Dx_Coder"><img src="https://files.catbox.moe/7ca1i1.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
